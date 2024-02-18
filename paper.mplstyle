@@ -1,0 +1,11 @@
+axes.titlesize : 10
+axes.labelsize : 10
+xtick.labelsize : 10
+ytick.labelsize : 10
+
+font.family            : serif
+font.style             : normal
+font.variant           : normal
+font.weight            : medium
+font.stretch           : normal
+font.size              : 10.0
