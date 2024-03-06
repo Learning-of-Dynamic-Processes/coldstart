@@ -9,3 +9,4 @@ font.variant           : normal
 font.weight            : medium
 font.stretch           : normal
 font.size              : 10.0
+text.usetex            : True
